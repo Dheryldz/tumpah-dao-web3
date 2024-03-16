@@ -1,0 +1,32 @@
+{
+  "name": "tumpah-dao-web3",
+  "version": "1.0.2",
+  "description": "TUMPAHDAO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dheryldz/tumpah-dao-web3"
+  },
+  "keywords": [
+    "web3",
+    "dao",
+    "exclusive",
+    "betaacces",
+    "private"
+  ],
+  "author": "Dheryldz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dheryldz/tumpah-dao-web3"
+  },
+  "homepage": "https://github.com/Dheryldz/tumpah-dao-web3",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "mocha": "^10.3.0",
+    "notepad-pwa": "^1.6.0",
+    "readme": "^0.7.0"
+  }
+}
